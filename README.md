@@ -4,7 +4,7 @@ Intro to Mobile Product Development - iOS Pre-work Project for CodePath
 ### MPD-iosPrework Walk-though
 
 <img src="http://g.recordit.co/xuHpjxVi3P.gif" width=200><br>
-<img src="http://g.recordit.co/uGIMoCFNPA.gif" width=200><br>
+<img src="http://g.recordit.co/2VYXa8V7VI.gif" width=200><br>
 
 ### Required User Stories
 - [ x ] 1. User sees custom text in a label - Hello from {name}!
