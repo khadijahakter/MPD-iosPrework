@@ -1,13 +1,10 @@
 # MPD-iosPrework
 Intro to Mobile Product Development - iOS Pre-work Project for CodePath
 
-### App Walk-though
-`TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)
+### MPD-iosPrework Walk-though
 
-<img src="http://g.recordit.co/jPl9kRzWHi.gif" width=200><br>
-<img src="http://g.recordit.co/52hz9PH3tU.gif" width=200><br>
-
-`TODO://` In the User stories section below, add an `x` between the `-[ ]` like this `- [x]` for any user story you complete. (☝️ Remove this paragraph after after checking off user stories)
+<img src="http://g.recordit.co/xuHpjxVi3P.gif" width=200><br>
+<img src="http://g.recordit.co/uGIMoCFNPA.gif" width=200><br>
 
 ### Required User Stories
 - [ x ] 1. User sees custom text in a label - Hello from {name}!
